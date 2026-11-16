@@ -1,0 +1,17 @@
+# Private materials and local artifacts
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+*.pdf
+*.epub
+*.mp3
+*.m4a
+*.wav
+*.zip
+.env
+.env.*
+**/Private/**
+**/Assets/Books/**
+.DS_Store
+Thumbs.db
